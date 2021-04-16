@@ -7,7 +7,7 @@ arrow==0.10.0
 dj-database-url==0.4.2
 dj-static==0.0.6
 django-cors-headers==2.0.2
-django-debug-toolbar==1.7
+django-debug-toolbar==1.11.1
 django-extensions
 djangorestframework
 markdown
